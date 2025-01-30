@@ -7,9 +7,7 @@ Welcome to my **Personal Portfolio Website**! This portfolio showcases my projec
 ---
 
 ## 🚀 Live Demo
-👉 **[View Portfolio Live](https://your-portfolio-link.com/)**  
-_(Replace with your actual deployment link)_
-
+👉 **[View Portfolio Live]([https://your-portfolio-link.com/](https://github.com/HimayaRanathunga/Portfolio-personal.git)**  
 ---
 
 ## 📌 Features
