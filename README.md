@@ -4,7 +4,6 @@ Welcome to my **Personal Portfolio Website**! This portfolio showcases my projec
 
 ![portfolio-preview](https://github.com/user-attachments/assets/17c95027-25e9-42e6-a49d-2b12a5c17bc0)
 
----
 
 ## 🚀 Live Demo
 👉 **[View Portfolio Live]([https://your-portfolio-link.com/](https://github.com/HimayaRanathunga/Portfolio-personal.git)**  
@@ -79,9 +78,7 @@ This project is open-source and available under the MIT License.
 2️⃣ **Add a screenshot of your portfolio** in `assets/images/portfolio-preview.png`.  
 3️⃣ **Customize any sections if needed!**  
 
----
 
-🎉 **Now your GitHub repository has a perfect README!** 🚀 Let me know if you need any refinements! 😊🔥
 
 
 
